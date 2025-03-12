@@ -1,0 +1,142 @@
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\appsettings.Development.json
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\appsettings.json
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\libman.json
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.exe
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.deps.json
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.runtimeconfig.json
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.runtimeconfig.dev.json
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ref\ASP.NET.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.pdb
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Humanizer.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Web.Http.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Web.Http.Owin.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.Host.HttpListener.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.Hosting.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Owin.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.csproj.AssemblyReference.cache
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.AssemblyInfoInputs.cache
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.AssemblyInfo.cs
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.csproj.CoreCompileInputs.cache
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.MvcApplicationPartsAssemblyInfo.cs
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\staticwebassets\ASP.NET.StaticWebAssets.Manifest.cache
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\staticwebassets\ASP.NET.StaticWebAssets.xml
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\scopedcss\bundle\ASP.NET.styles.css
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.RazorTargetAssemblyInfo.cache
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.csproj.CopyComplete
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ref\ASP.NET.dll
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.pdb
+D:\ELFAK DUO DOMINI 2020\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.genruntimeconfig.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\appsettings.json
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\libman.json
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.exe
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.deps.json
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.runtimeconfig.json
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.runtimeconfig.dev.json
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ref\ASP.NET.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\ASP.NET.pdb
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Web.Http.Owin.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.Hosting.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Owin.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.csproj.AssemblyReference.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.AssemblyInfo.cs
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\staticwebassets\ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\staticwebassets\ASP.NET.StaticWebAssets.xml
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\scopedcss\bundle\ASP.NET.styles.css
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.csproj.CopyComplete
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ref\ASP.NET.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.pdb
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\obj\Debug\net5.0\ASP.NET.genruntimeconfig.cache
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Miljana\Desktop\si.22.41.my_msa\Aplikacija\ASP.NET\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

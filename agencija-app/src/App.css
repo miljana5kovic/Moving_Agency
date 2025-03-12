@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.navbar{
+  background-color: transparent;
+}
+
+.navbar.colorChange{
+  background-color: #000;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.recenzija{
+  display: flex;
+  justify-content: center;
+}
+
+.dugmeOcena{
+  display: flex;
+  justify-content: center;
+}
+
+.otkaziRecenziju{
+  width: 120px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  display: flex;
+  align-self: flex-end;
+  padding: 20px;
+  cursor: pointer;
+
+ 
+}
+
+
+
+.recenzijaSelidba{
+  display: flex;
+  align-self: flex-end;
+
+}
+
+.pomocniDivSelidba{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.PogledajSelidbe{
+  display: flex;
+  align-self: flex-start;
+  margin-right: 10px;
+ 
+}
+
+.zvezde{
+  margin: 10px;
+}
+
+.naslov{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.div1{
+  margin-bottom: 10px;
+  
+}
+
+.div2{
+  margin-top: 10px;
+  
+}
+
+.naslovPom{
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+
+
+

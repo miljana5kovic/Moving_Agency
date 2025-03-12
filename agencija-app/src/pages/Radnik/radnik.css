@@ -1,0 +1,64 @@
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  .Prostorija{
+    margin:20px;
+     width: 20rem ;
+  }
+  .SlikaProstorije{
+    height:20rem;
+  }
+  .SlikaProstorije:hover{
+    background: url("../../../public/assets/img/logo1.png");
+  }
+  .overlayPar {
+  position: relative;
+}
+
+.imgOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 255, 0.159);
+  background-image: url(../../../public/assets/img/sobe/logo1.png);
+  background-size: cover;
+  display: none;
+}
+
+.overlayPar:hover .imgOverlay  {
+  display: flex;
+}
+  @media (max-width: 600px) {
+    .Prostorija{
+        width:calc(100% - 40px);
+        
+    }
+    .SlikaProstorije
+    {height: calc(100vw - 40px);}
+
+    .divProstorije{
+        flex-direction: column;
+    }
+}
+  

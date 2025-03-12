@@ -1,0 +1,65 @@
+.CalendarPregled{
+    margin-top: 500px;
+}
+    @media (max-width: 700px) {
+.divLokacija
+        {
+            width: 100%;
+        }
+        
+    
+.divLokacija2{
+        width: 100%;
+}
+
+.PregledAdresa{
+    width:100%;
+}
+
+    }
+
+    .KalendarLokacija{
+        display: flex;
+        flex-wrap: wrap;
+        margin-right:70px;
+    }
+
+/*pregledi*/
+
+.Pregledi{
+    margin-top:40px;
+    margin-left:20px;
+    margin-right: 20px;
+}
+
+.Pregled{
+    margin: 10px;
+    border: 2px solid black;
+}
+
+input{
+    width:300px;
+    border: 2px solid #0205a1;
+    height:40px;
+    border-radius:10px;
+    padding-left:10px;
+}
+@media (max-width: 700px) {
+    input{
+        width:100%;
+    }
+    .KalendarLokacija{
+        flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       
+       margin-right:0px;
+    }
+}
+
+.modal-body{
+    height: 300px;
+}
+.otkazi{
+    margin-left:10px;
+}
