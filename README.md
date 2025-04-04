@@ -1,7 +1,7 @@
 # A web application for a Moving Agency
 
 A web application developed using .NET, React and SQL Server, the purpose is to display the information needed for a successful move of business premises or households, scheduling a moving estimate, scheduling a move and reviewing the work of the agency as well as its own workers.
-Project created as 
+Project created as student project for class Software Engeneering.
 
 ![Screenshot 2025-04-04 144127](https://github.com/user-attachments/assets/5df5e22c-f474-4144-ad48-8cc88bc5cc70)
 
