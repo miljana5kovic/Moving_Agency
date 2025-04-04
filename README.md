@@ -1,12 +1,9 @@
 # A web application for a Moving Agency
 
 A web application developed using .NET, React and SQL Server, the purpose is to display the information needed for a successful move of business premises or households, scheduling a moving estimate, scheduling a move and reviewing the work of the agency as well as its own workers.
+Project created as 
 
 ![Screenshot 2025-04-04 144127](https://github.com/user-attachments/assets/5df5e22c-f474-4144-ad48-8cc88bc5cc70)
-
-## Project Structure
-
-## Databaase Structure
 
 ## Login and Register
 
@@ -30,4 +27,16 @@ After estimation is complete user get a notification and can accept or reject mo
 Notifications in real time are implemented using SignalR.
 
 ![image](https://github.com/user-attachments/assets/66fc9245-c01e-48bd-bf4b-1ede812d677e)
+
+## Project structure
+
+Project is organized in two main directories: [ASP.NET](https://github.com/miljana5kovic/Moving_Agency/tree/6b34c0699417f3e6c4e392d7a0bd0d159ec767f1/ASP.NET) and [agencija-app](https://github.com/miljana5kovic/Moving_Agency/tree/6b34c0699417f3e6c4e392d7a0bd0d159ec767f1/agencija-app)
+
+[ASP.NET](https://github.com/miljana5kovic/Moving_Agency/tree/6b34c0699417f3e6c4e392d7a0bd0d159ec767f1/ASP.NET) directory contains backend code organized with MVC protocol. Directory [Models](https://github.com/miljana5kovic/Moving_Agency/tree/6b34c0699417f3e6c4e392d7a0bd0d159ec767f1/ASP.NET/Models) contains maped model of database entities, directory [Controllers](https://github.com/miljana5kovic/Moving_Agency/tree/6b34c0699417f3e6c4e392d7a0bd0d159ec767f1/ASP.NET/Controllers) contains controllers with endpoints.
+[agencija-app](https://github.com/miljana5kovic/Moving_Agency/tree/6b34c0699417f3e6c4e392d7a0bd0d159ec767f1/agencija-app) directory contains frontend code developed using React.
+
+## Database structure
+
+![image](https://github.com/user-attachments/assets/650d535b-299d-47db-bb2e-c2a0b9023ff9)
+
 
